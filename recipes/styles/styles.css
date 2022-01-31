@@ -1,0 +1,12 @@
+.dumpling_image {
+    width: 600px;
+    height: auto;
+}
+
+.ingredients_title {
+    font-weight: bold;
+}
+
+li {
+    font-weight: normal;
+}
